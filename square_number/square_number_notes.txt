@@ -1,0 +1,6 @@
+x Can create function for is_square
+x Can add an integer
+x Cannot negative numbers as they cannot be squared
+x zero is a square number
+x Can add square numbers return True
+x If not a square number, return False exception
