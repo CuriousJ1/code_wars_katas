@@ -5,4 +5,4 @@ Codewars is an educational community for computer programming. On the platform, 
 
 
 ## Purpose
-The purpose of this repository is to provide my solutions using Python andTDD by using Git.
+The purpose of this repository is to provide my solutions using Python and TDD by using Git.
