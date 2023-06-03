@@ -1,0 +1,7 @@
+- Can create function for domain_name
+- Can add a string
+- Cannot add integers
+- Only accepts url
+- Returns a string
+- Prints domain name in return
+
