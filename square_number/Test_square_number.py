@@ -4,7 +4,7 @@ import coverage
 from square_number import is_square   # import our module
 
 # TDD link: https://www.youtube.com/watch?v=Tdpmo3bcjwA
-
+# TDD link: https://www.youtube.com/watch?v=kwj6Hk1kJYU&t=47s
 class is_squareTestCase(unittest.TestCase):
 
     # def test_return_number(self):
