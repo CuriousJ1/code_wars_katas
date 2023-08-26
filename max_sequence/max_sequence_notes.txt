@@ -1,0 +1,8 @@
+x Can create function for max_sequence
+x Can add a list
+x Cannot have strings in list
+x If all positive elements in list, sum the values into integer
+x If all negative values, return 0
+x Only positive values are summed in the list which is returned
+
+
