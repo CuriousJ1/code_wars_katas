@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="completed and used TDD for domain name kata">
-      <change afterPath="$PROJECT_DIR$/array_diff/Test_array_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array_diff/array_diff.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array_diff/array_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array_diff/requirements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastDigitOfLargeNumber/Test_lastDigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastDigitOfLargeNumber/lastDigit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastDigitOfLargeNumber/lastDigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lastDigitOfLargeNumber/requirements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="completed and used TDD for array_diff and used lambda and filters" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +209,7 @@
       <workItem from="1693183353308" duration="4679000" />
       <workItem from="1693701431797" duration="64000" />
       <workItem from="1693725510856" duration="582000" />
-      <workItem from="1693788256077" duration="2354000" />
+      <workItem from="1693788256077" duration="2694000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1685249504242</created>
@@ -264,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693032508661</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed and used TDD for array_diff and used lambda and filters">
+      <option name="closed" value="true" />
+      <created>1693790980752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693790980752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +284,8 @@
     <MESSAGE value="update readme.md" />
     <MESSAGE value="set up for domain_name kata" />
     <MESSAGE value="completed and used TDD for domain name kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed and used TDD for domain name kata" />
+    <MESSAGE value="completed and used TDD for array_diff and used lambda and filters" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed and used TDD for array_diff and used lambda and filters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -302,7 +301,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_for_Test_max_sequence_is_max_sequenceTestCase.coverage" NAME="pytest for Test_max_sequence.is_max_sequenceTestCase Coverage Results" MODIFIED="1693032220501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
     <SUITE FILE_PATH="coverage/code_wars_katas$.coverage" NAME=" Coverage Results" MODIFIED="1693031050690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
-    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_array_diff_py.coverage" NAME="pytest in Test_array_diff.py Coverage Results" MODIFIED="1693790628413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array_diff" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_array_diff_py.coverage" NAME="pytest in Test_array_diff.py Coverage Results" MODIFIED="1693790954391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array_diff" />
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_lastDigit_py.coverage" NAME="pytest in Test_lastDigit.py Coverage Results" MODIFIED="1693188363745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lastDigitOfLargeNumber" />
   </component>
 </project>
