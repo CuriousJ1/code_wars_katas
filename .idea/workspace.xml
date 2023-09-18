@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="Implemenetation of Mypy">
-      <change afterPath="$PROJECT_DIR$/duplicate_count/Test_duplicate_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate_count/duplicate_count.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate_count/duplicate_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate_count/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate_count/requirements.md" afterDir="false" />
+    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="Duplicate count completion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duplicate_count/requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/duplicate_count/requirements.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "auto.test.manager.delay": "1000",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/jjtakhar/PycharmProjects/pythonProject/code_wars_katas/duplicate_count",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -222,7 +219,10 @@
       <workItem from="1693788256077" duration="2694000" />
       <workItem from="1693875784542" duration="126000" />
       <workItem from="1693876017896" duration="17000" />
-      <workItem from="1693981786459" duration="3221000" />
+      <workItem from="1693981786459" duration="3501000" />
+      <workItem from="1694412674583" duration="74000" />
+      <workItem from="1694483452382" duration="6000" />
+      <workItem from="1694485752850" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1685249504242</created>
@@ -283,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693875902453</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Duplicate count completion">
+      <option name="closed" value="true" />
+      <created>1693985401637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693985401638</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +315,8 @@
     <MESSAGE value="completed and used TDD for domain name kata" />
     <MESSAGE value="completed and used TDD for array_diff and used lambda and filters" />
     <MESSAGE value="Implemenetation of Mypy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemenetation of Mypy" />
+    <MESSAGE value="Duplicate count completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Duplicate count completion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -323,7 +332,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_for_Test_max_sequence_is_max_sequenceTestCase.coverage" NAME="pytest for Test_max_sequence.is_max_sequenceTestCase Coverage Results" MODIFIED="1693032220501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
     <SUITE FILE_PATH="coverage/code_wars_katas$.coverage" NAME=" Coverage Results" MODIFIED="1693031050690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
-    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_duplicate_count_py.coverage" NAME="pytest in Test_duplicate_count.py Coverage Results" MODIFIED="1693985098652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/duplicate_count" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_duplicate_count_py.coverage" NAME="pytest in Test_duplicate_count.py Coverage Results" MODIFIED="1693985207314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/duplicate_count" />
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_array_diff_py.coverage" NAME="pytest in Test_array_diff.py Coverage Results" MODIFIED="1693790954391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array_diff" />
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_lastDigit_py.coverage" NAME="pytest in Test_lastDigit.py Coverage Results" MODIFIED="1693188363745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lastDigitOfLargeNumber" />
   </component>
