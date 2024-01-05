@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="Duplicate count completion">
+    <list default="true" id="522cdd9b-799f-46c3-8347-8cc6b3f19707" name="Changes" comment="Pig it completion">
+      <change afterPath="$PROJECT_DIR$/cakes/Test_cakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cakes/cakes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cakes/cakes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cakes/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cakes/requirements.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duplicate_count/requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/duplicate_count/requirements.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2JhMsWBkDLEA07gSWVFz7sSEaz1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,7 +70,8 @@
     "WebServerToolWindowFactoryState": "false",
     "auto.test.manager.delay": "1000",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/jjtakhar/PycharmProjects/pythonProject/code_wars_katas/duplicate_count",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "/Users/jjtakhar/PycharmProjects/pythonProject/code_wars_katas",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,16 +87,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/duplicate_count" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/duplicate_count" />
       <recent name="$PROJECT_DIR$/domain_name" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/domain_name" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/open_or_senior" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in Test_duplicate_count.py">
+  <component name="RunManager" selected="Python tests.pytest in Test_cakes.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="code_wars_katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,38 +120,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Test_max_sequence.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="code_wars_katas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/max_sequence" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/max_sequence/Test_max_sequence.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for Test_max_sequence.is_max_sequenceTestCase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="code_wars_katas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/max_sequence" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_max_sequence.is_max_sequenceTestCase&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest in Test_array_diff.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="code_wars_katas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,6 +134,23 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/array_diff/Test_array_diff.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_cakes.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="code_wars_katas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cakes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cakes/Test_cakes.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -192,13 +188,30 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in Test_pig_latin.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="code_wars_katas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simple_pig_latin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/simple_pig_latin/Test_pig_latin.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in Test_cakes.py" />
+        <item itemvalue="Python tests.pytest in Test_pig_latin.py" />
         <item itemvalue="Python tests.pytest in Test_duplicate_count.py" />
         <item itemvalue="Python tests.pytest in Test_array_diff.py" />
         <item itemvalue="Python tests.pytest in Test_lastDigit.py" />
-        <item itemvalue="Python tests.pytest for Test_max_sequence.is_max_sequenceTestCase" />
-        <item itemvalue="Python tests.Python tests in Test_max_sequence.py" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +236,10 @@
       <workItem from="1694412674583" duration="74000" />
       <workItem from="1694483452382" duration="6000" />
       <workItem from="1694485752850" duration="97000" />
+      <workItem from="1695000214307" duration="3592000" />
+      <workItem from="1699231479353" duration="57000" />
+      <workItem from="1699853868779" duration="29000" />
+      <workItem from="1704420634339" duration="2773000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1685249504242</created>
@@ -291,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693985401638</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Pig it completion">
+      <option name="closed" value="true" />
+      <created>1695012962303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695012962303</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +341,8 @@
     <MESSAGE value="completed and used TDD for array_diff and used lambda and filters" />
     <MESSAGE value="Implemenetation of Mypy" />
     <MESSAGE value="Duplicate count completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Duplicate count completion" />
+    <MESSAGE value="Pig it completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pig it completion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -330,10 +356,12 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_for_Test_max_sequence_is_max_sequenceTestCase.coverage" NAME="pytest for Test_max_sequence.is_max_sequenceTestCase Coverage Results" MODIFIED="1693032220501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
     <SUITE FILE_PATH="coverage/code_wars_katas$.coverage" NAME=" Coverage Results" MODIFIED="1693031050690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_lastDigit_py.coverage" NAME="pytest in Test_lastDigit.py Coverage Results" MODIFIED="1693188363745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lastDigitOfLargeNumber" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_pig_latin_py.coverage" NAME="pytest in Test_pig_latin.py Coverage Results" MODIFIED="1695012855926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/simple_pig_latin" />
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_duplicate_count_py.coverage" NAME="pytest in Test_duplicate_count.py Coverage Results" MODIFIED="1693985207314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/duplicate_count" />
     <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_array_diff_py.coverage" NAME="pytest in Test_array_diff.py Coverage Results" MODIFIED="1693790954391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/array_diff" />
-    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_lastDigit_py.coverage" NAME="pytest in Test_lastDigit.py Coverage Results" MODIFIED="1693188363745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lastDigitOfLargeNumber" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_in_Test_cakes_py.coverage" NAME="pytest in Test_cakes.py Coverage Results" MODIFIED="1704426456590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cakes" />
+    <SUITE FILE_PATH="coverage/code_wars_katas$pytest_for_Test_max_sequence_is_max_sequenceTestCase.coverage" NAME="pytest for Test_max_sequence.is_max_sequenceTestCase Coverage Results" MODIFIED="1693032220501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/max_sequence" />
   </component>
 </project>
