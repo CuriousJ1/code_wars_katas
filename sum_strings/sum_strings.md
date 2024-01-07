@@ -1,0 +1,5 @@
+- Can create function for sum_strings
+- Function input can only be a int
+- Cannot have none values
+- sum_strings(1,2) = 3
+- sum_strings(123,256) = 579
